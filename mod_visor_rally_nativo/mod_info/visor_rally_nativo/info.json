@@ -1,0 +1,7 @@
+{
+  "name": "Visor Rally Nativo",
+  "title": "Visor Rally Nativo",
+  "version": "0.1.0",
+  "author": "Projeto Visor Rally",
+  "description": "Exporta estradas locais, rota e direcao do carro por UDP local para o visor ESP32."
+}
